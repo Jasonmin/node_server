@@ -1,6 +1,9 @@
 var http = require('http');
 
+
 http.createServer(function (request, response) {
+    
+    global.console();
 
     // 发送 HTTP 头部 
     // HTTP 状态值: 200 : OK
