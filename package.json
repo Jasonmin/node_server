@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Jasonmin/own_server#readme",
   "dependencies": {
     "arr-flatten": "^1.1.0",
+    "bluebird": "^3.5.1",
+    "co": "^4.6.0",
     "decamelize": "^2.0.0"
   }
 }
